@@ -1,0 +1,1 @@
+123;19;negro;abs;5;4;320;12ma;qwerty;lcd;pentium;123;19;negro;abs;5;4;320;12ma;qwerty;lcd;pentium;123;19;negro;abs;5;4;320;12ma;qwerty;lcd;pentium;456;19;blanco;pla;8;24;120;28ma;piuy;plasma;core;123;19;negro;abs;5;4;320;12ma;qwerty;lcd;pentium;
